@@ -1,3 +1,6 @@
+Preview of the App
+https://github.com/beggh/CheckListt/issues/1#issue-797067421
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
