@@ -1,5 +1,6 @@
 Preview of the App
 https://github.com/beggh/CheckListt/issues/1#issue-797067421
+
 Developed application using ReactJS functional components where users can add and remove items by clicking on buttons(+,-) respectively
 
 # Getting Started with Create React App
